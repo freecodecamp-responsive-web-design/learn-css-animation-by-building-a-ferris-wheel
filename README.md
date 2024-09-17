@@ -1,6 +1,11 @@
 # Learn CSS Animation by Building a Ferris Wheel
 
+![image](https://github.com/user-attachments/assets/2c111d9e-1c74-4ce9-bc07-c14afd06e645)
+
+
 This project is part of the **FreeCodeCamp** curriculum, where you'll learn **CSS Animation** by creating an interactive **Ferris Wheel**.
+
+[Learn CSS Animation by Building a Ferris Wheel](https://freecodecamp-responsive-web-design.github.io/learn-css-animation-by-building-a-ferris-wheel/)
 
 ## In this project, you will:
 - Explore **CSS animations** to create dynamic and engaging visual effects.
